@@ -24,7 +24,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft-SQL-Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
 
 <br>
