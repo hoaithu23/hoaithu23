@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- Hoaithu23 -->
 <a href="#" target="_blank">
   <img src="svg/hoaithu23.svg" width="1200" alt="hoaithu23" />
 </a>
@@ -52,9 +52,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
   <a href="https://www.facebook.com/hoaithu2306/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoaithu-facebook" />
   </a>
